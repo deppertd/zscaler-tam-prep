@@ -9,8 +9,23 @@ function removeLoadingMessage() {
   if (loadingMsg) loadingMsg.remove();
 }
 
-// Fetch flashcards from flashcards.json
 fetch('flashcards.json')
+  .then(res => {
+    if (!res.ok) {
+      throw new Error(`HTTP error! status: ${res.status}`);
+    }
+    return res.json();
+  })
+  .then(data => {
+    console.log("✅ Loaded flashcards:", data);
+  })
+  .catch(err => {
+    console.error('Error loading flashcards:', err);
+    alert('❌ Failed to load flashcards. Please check flashcards.json.');
+  });
+
+// Fetch flashcards from flashcards.json
+/* fetch('flashcards.json')
   .then(res => res.json())
   .then(data => {
     console.log("✅ Loaded flashcards:", data.length);
@@ -27,7 +42,7 @@ fetch('flashcards.json')
   .catch(err => {
     console.error('Error loading flashcards:', err);
     alert('❌ Failed to load flashcards. Please check flashcards.json.');
-  });
+  }); */
 
 // Fetch Q&A cards from qa.json
 fetch('qa.json')

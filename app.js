@@ -1,4 +1,3 @@
-
 // === Zscaler TAM App - app.js ===
 
 // Load decks (flashcards and Q&A) from external JSON files
@@ -7,13 +6,22 @@ let decks = { flashcards: [], qa: [] };
 // Fetch flashcards from flashcards.json
 fetch('flashcards.json')
   .then(res => res.json())
-  .then(data => { decks.flashcards = data; })
+  .then(data => {
+    console.log("✅ Loaded flashcards:", data.length);
+    if (data.length === 0) alert('⚠️ Flashcards loaded but empty!');
+    if (document.getElementById('loadingMsg')) document.getElementById('loadingMsg').remove();
+    decks.flashcards = data;
+    if (currentDeck === 'flashcard') showCard();
+  })
   .catch(err => console.error('Error loading flashcards:', err));
 
 // Fetch Q&A cards from qa.json
 fetch('qa.json')
   .then(res => res.json())
-  .then(data => { decks.qa = data; })
+  .then(data => {
+    console.log("✅ Loaded QA cards:", data.length);
+    if (data.length === 0) alert('⚠️ QA cards loaded but empty!');
+    if (document.getElementById('loadingMsg')) document.getElementById('loadingMsg').remove(); decks.qa = data; })
   .catch(err => console.error('Error loading QA deck:', err));
 
 // Load quiz questions from external JSON file
@@ -23,6 +31,10 @@ fetch('questions.json')
   .then(response => response.json())
   .then(data => {
     allQuestions = data;
+    console.log("✅ Loaded questions:", allQuestions.length);
+    if (allQuestions.length < 20) alert('⚠️ Less than 20 questions loaded — quiz will be limited.');
+    if (document.getElementById('loadingMsg')) document.getElementById('loadingMsg').remove();
+    console.log("✅ Loaded questions:", allQuestions.length);
   })
   .catch(err => {
     console.error('Failed to load questions:', err);
@@ -163,6 +175,14 @@ function updateScoreBoard() {
 
 // File upload functionality for loading local JSON decks
 document.addEventListener("DOMContentLoaded", () => {
+  const loadingMsg = document.createElement('div');
+  loadingMsg.id = 'loadingMsg';
+  loadingMsg.textContent = 'Loading decks...';
+  loadingMsg.style = 'position:fixed;top:10px;left:10px;background:#fff3cd;padding:8px 12px;border:1px solid #ffeeba;border-radius:4px;color:#856404;font-weight:bold;z-index:9999';
+  document.body.appendChild(loadingMsg);
+  currentDeck = 'flashcard';
+  mode = 'flashcard';
+  setMode('flashcard');
   const uploadInput = document.getElementById("uploadDeck");
   if (uploadInput) {
     uploadInput.addEventListener("change", handleFileUpload);

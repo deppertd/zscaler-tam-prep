@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zscaler TAM Prep</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="main">
+    <div class="sidebar">
+      <h2>Select Activity</h2>
+      <button onclick="setMode('flashcard')">Flashcards</button>
+      <button onclick="setMode('qa')">Interview Q&A</button>
+      <select id="categorySelect">
+        <option value="All">All</option>
+        <option value="Networking">Networking</option>
+        <option value="Security">Security</option>
+        <option value="Tools">Tools</option>
+        <option value="Zscaler">Zscaler</option>
+      </select>
+      <button onclick="startQuiz()">Test Yourself</button>
+      <h4>Upload flashcards or Q&A (JSON)</h4>
+      <input type="file" id="uploadDeck" accept=".json" />
+    </div>
+
+    <div class="card" id="flashcard" onclick="toggleCard()">
+      <div class="text-large" id="cardFront">Card Front</div>
+      <div class="text-small" id="cardBack">Card Back</div>
+      <div class="buttons">
+        <button onclick="prevCard()">Back</button>
+        <button onclick="nextCard()">Next</button>
+      </div>
+    </div>
+
+    <div class="quiz" id="quiz" style="display: none;">
+      <div class="text-large" id="quizQuestion">Question</div>
+      <div id="quizOptions"></div>
+      <div id="scoreBoard">Score: 0/0</div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

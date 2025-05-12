@@ -1,0 +1,18 @@
+[
+  {
+    "front": "ZPA",
+    "back": "Zscaler Private Access \u2013 provides zero trust access to internal applications."
+  },
+  {
+    "front": "TLS",
+    "back": "Transport Layer Security \u2013 encrypts data in transit."
+  },
+  {
+    "front": "PAC File",
+    "back": "Proxy Auto-Config \u2013 defines proxy rules for web traffic."
+  },
+  {
+    "front": "Wireshark",
+    "back": "A tool used to capture and inspect network traffic at packet level."
+  }
+]

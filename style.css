@@ -1,0 +1,87 @@
+
+body {
+  font-family: sans-serif;
+  background: #f7fafd;
+  margin: 0;
+  display: flex;
+  height: 100vh;
+}
+.sidebar {
+  width: 250px;
+  background: #003366;
+  color: white;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+.sidebar h2 {
+  font-size: 1.25rem;
+  margin-top: 0;
+}
+.sidebar button, .quiz-option {
+  display: block;
+  margin: 1rem 0;
+  padding: 0.5rem;
+  font-size: 1rem;
+  background: #0055aa;
+  color: white;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  width: 100%;
+}
+.sidebar button:hover, .quiz-option:hover {
+  background: #0077cc;
+}
+.main {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.card, .quiz {
+  background: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  max-width: 700px;
+  width: 90%;
+  text-align: center;
+}
+.text-large {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+.text-small {
+  font-size: 1rem;
+  color: #444;
+  display: none;
+}
+.buttons {
+  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
+}
+button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  background: #0066cc;
+  color: white;
+  cursor: pointer;
+}
+button:hover {
+  background: #004999;
+}
+#scoreBoard {
+  margin-top: 1rem;
+  font-size: 1.1rem;
+}
+#categorySelect {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+  width: 100%;
+}

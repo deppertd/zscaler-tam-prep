@@ -1,0 +1,46 @@
+[
+  {
+    "question": "What is the OSI model primarily used for?",
+    "options": [
+      "User authentication",
+      "Routing traffic",
+      "Standardizing network communication",
+      "Encrypting packets"
+    ],
+    "answer": "Standardizing network communication",
+    "category": "Networking"
+  },
+  {
+    "question": "Which Zscaler product is designed to secure internet-bound traffic?",
+    "options": [
+      "ZIA",
+      "ZPA",
+      "ZTNA",
+      "VPN"
+    ],
+    "answer": "ZIA",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What soft skill is most important when working with executive stakeholders?",
+    "options": [
+      "Attention to detail",
+      "Empathy",
+      "Delegation",
+      "Hardware knowledge"
+    ],
+    "answer": "Empathy",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "How should you approach a critical issue with a hospital client?",
+    "options": [
+      "Escalate immediately",
+      "Reboot systems",
+      "Use structured troubleshooting and proactive communication",
+      "Ignore until replicated"
+    ],
+    "answer": "Use structured troubleshooting and proactive communication",
+    "category": "Situational"
+  }
+]

@@ -1,102 +1,182 @@
 [
   {
-    "front": "What is concept 1?",
-    "back": "Concept 1 is a key idea used in Zscaler TAM success."
+    "front": "Firewall (Security)",
+    "back": "A network security device that monitors and filters incoming and outgoing network traffic."
   },
   {
-    "front": "What is concept 2?",
-    "back": "Concept 2 is a key idea used in Zscaler TAM success."
+    "front": "Least Privilege (Security)",
+    "back": "A security principle that grants users only the access necessary to perform their job."
   },
   {
-    "front": "What is concept 3?",
-    "back": "Concept 3 is a key idea used in Zscaler TAM success."
+    "front": "DLP (Security)",
+    "back": "Data Loss Prevention systems detect and prevent potential data breaches."
   },
   {
-    "front": "What is concept 4?",
-    "back": "Concept 4 is a key idea used in Zscaler TAM success."
+    "front": "UDP (Networking)",
+    "back": "User Datagram Protocol allows low-latency and loss-tolerating connections."
   },
   {
-    "front": "What is concept 5?",
-    "back": "Concept 5 is a key idea used in Zscaler TAM success."
+    "front": "ZEN (Zscaler)",
+    "back": "Zscaler Enforcement Node is the data path enforcement point in the cloud."
   },
   {
-    "front": "What is concept 6?",
-    "back": "Concept 6 is a key idea used in Zscaler TAM success."
+    "front": "UDP (Networking)",
+    "back": "User Datagram Protocol allows low-latency and loss-tolerating connections."
   },
   {
-    "front": "What is concept 7?",
-    "back": "Concept 7 is a key idea used in Zscaler TAM success."
+    "front": "Least Privilege (Security)",
+    "back": "A security principle that grants users only the access necessary to perform their job."
   },
   {
-    "front": "What is concept 8?",
-    "back": "Concept 8 is a key idea used in Zscaler TAM success."
+    "front": "ZIA (Zscaler)",
+    "back": "Zscaler Internet Access secures outbound connections to the internet."
   },
   {
-    "front": "What is concept 9?",
-    "back": "Concept 9 is a key idea used in Zscaler TAM success."
+    "front": "OSI Model (Networking)",
+    "back": "A conceptual model that standardizes the functions of a telecommunication or computing system into seven distinct layers."
   },
   {
-    "front": "What is concept 10?",
-    "back": "Concept 10 is a key idea used in Zscaler TAM success."
+    "front": "DLP (Security)",
+    "back": "Data Loss Prevention systems detect and prevent potential data breaches."
   },
   {
-    "front": "What is concept 11?",
-    "back": "Concept 11 is a key idea used in Zscaler TAM success."
+    "front": "ZEN (Zscaler)",
+    "back": "Zscaler Enforcement Node is the data path enforcement point in the cloud."
   },
   {
-    "front": "What is concept 12?",
-    "back": "Concept 12 is a key idea used in Zscaler TAM success."
+    "front": "ZDX (Zscaler)",
+    "back": "Zscaler Digital Experience monitors user performance and app experience."
   },
   {
-    "front": "What is concept 13?",
-    "back": "Concept 13 is a key idea used in Zscaler TAM success."
+    "front": "DNS (Networking)",
+    "back": "Domain Name System translates domain names to IP addresses."
   },
   {
-    "front": "What is concept 14?",
-    "back": "Concept 14 is a key idea used in Zscaler TAM success."
+    "front": "PAC File (Zscaler)",
+    "back": "A script that tells a browser or device how to choose the appropriate proxy server."
   },
   {
-    "front": "What is concept 15?",
-    "back": "Concept 15 is a key idea used in Zscaler TAM success."
+    "front": "Least Privilege (Security)",
+    "back": "A security principle that grants users only the access necessary to perform their job."
   },
   {
-    "front": "What is concept 16?",
-    "back": "Concept 16 is a key idea used in Zscaler TAM success."
+    "front": "ZPA (Zscaler)",
+    "back": "Zscaler Private Access provides zero trust access to internal apps."
   },
   {
-    "front": "What is concept 17?",
-    "back": "Concept 17 is a key idea used in Zscaler TAM success."
+    "front": "ZDX (Zscaler)",
+    "back": "Zscaler Digital Experience monitors user performance and app experience."
   },
   {
-    "front": "What is concept 18?",
-    "back": "Concept 18 is a key idea used in Zscaler TAM success."
+    "front": "Firewall (Security)",
+    "back": "A network security device that monitors and filters incoming and outgoing network traffic."
   },
   {
-    "front": "What is concept 19?",
-    "back": "Concept 19 is a key idea used in Zscaler TAM success."
+    "front": "MFA (Security)",
+    "back": "Multi-Factor Authentication requires two or more methods of verification."
   },
   {
-    "front": "What is concept 20?",
-    "back": "Concept 20 is a key idea used in Zscaler TAM success."
+    "front": "ZPA (Zscaler)",
+    "back": "Zscaler Private Access provides zero trust access to internal apps."
   },
   {
-    "front": "What is concept 21?",
-    "back": "Concept 21 is a key idea used in Zscaler TAM success."
+    "front": "Firewall (Security)",
+    "back": "A network security device that monitors and filters incoming and outgoing network traffic."
   },
   {
-    "front": "What is concept 22?",
-    "back": "Concept 22 is a key idea used in Zscaler TAM success."
+    "front": "OSI Model (Networking)",
+    "back": "A conceptual model that standardizes the functions of a telecommunication or computing system into seven distinct layers."
   },
   {
-    "front": "What is concept 23?",
-    "back": "Concept 23 is a key idea used in Zscaler TAM success."
+    "front": "Phishing (Security)",
+    "back": "A type of social engineering attack used to steal user data."
   },
   {
-    "front": "What is concept 24?",
-    "back": "Concept 24 is a key idea used in Zscaler TAM success."
+    "front": "ZPA (Zscaler)",
+    "back": "Zscaler Private Access provides zero trust access to internal apps."
   },
   {
-    "front": "What is concept 25?",
-    "back": "Concept 25 is a key idea used in Zscaler TAM success."
+    "front": "TCP (Networking)",
+    "back": "Transmission Control Protocol ensures reliable, ordered, and error-checked delivery of data."
+  },
+  {
+    "front": "MFA (Security)",
+    "back": "Multi-Factor Authentication requires two or more methods of verification."
+  },
+  {
+    "front": "Subnetting (Networking)",
+    "back": "The process of dividing a network into smaller logical sub-networks."
+  },
+  {
+    "front": "ZDX (Zscaler)",
+    "back": "Zscaler Digital Experience monitors user performance and app experience."
+  },
+  {
+    "front": "UDP (Networking)",
+    "back": "User Datagram Protocol allows low-latency and loss-tolerating connections."
+  },
+  {
+    "front": "Phishing (Security)",
+    "back": "A type of social engineering attack used to steal user data."
+  },
+  {
+    "front": "ZIA (Zscaler)",
+    "back": "Zscaler Internet Access secures outbound connections to the internet."
+  },
+  {
+    "front": "PAC File (Zscaler)",
+    "back": "A script that tells a browser or device how to choose the appropriate proxy server."
+  },
+  {
+    "front": "TCP (Networking)",
+    "back": "Transmission Control Protocol ensures reliable, ordered, and error-checked delivery of data."
+  },
+  {
+    "front": "DLP (Security)",
+    "back": "Data Loss Prevention systems detect and prevent potential data breaches."
+  },
+  {
+    "front": "Subnetting (Networking)",
+    "back": "The process of dividing a network into smaller logical sub-networks."
+  },
+  {
+    "front": "TCP (Networking)",
+    "back": "Transmission Control Protocol ensures reliable, ordered, and error-checked delivery of data."
+  },
+  {
+    "front": "ZEN (Zscaler)",
+    "back": "Zscaler Enforcement Node is the data path enforcement point in the cloud."
+  },
+  {
+    "front": "Subnetting (Networking)",
+    "back": "The process of dividing a network into smaller logical sub-networks."
+  },
+  {
+    "front": "OSI Model (Networking)",
+    "back": "A conceptual model that standardizes the functions of a telecommunication or computing system into seven distinct layers."
+  },
+  {
+    "front": "PAC File (Zscaler)",
+    "back": "A script that tells a browser or device how to choose the appropriate proxy server."
+  },
+  {
+    "front": "ZIA (Zscaler)",
+    "back": "Zscaler Internet Access secures outbound connections to the internet."
+  },
+  {
+    "front": "DNS (Networking)",
+    "back": "Domain Name System translates domain names to IP addresses."
+  },
+  {
+    "front": "MFA (Security)",
+    "back": "Multi-Factor Authentication requires two or more methods of verification."
+  },
+  {
+    "front": "DNS (Networking)",
+    "back": "Domain Name System translates domain names to IP addresses."
+  },
+  {
+    "front": "Phishing (Security)",
+    "back": "A type of social engineering attack used to steal user data."
   }
 ]

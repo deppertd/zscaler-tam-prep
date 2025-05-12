@@ -3,17 +3,31 @@
 // Load decks (flashcards and Q&A) from external JSON files
 let decks = { flashcards: [], qa: [] };
 
+// Helper function to remove the loading message
+function removeLoadingMessage() {
+  const loadingMsg = document.getElementById('loadingMsg');
+  if (loadingMsg) loadingMsg.remove();
+}
+
 // Fetch flashcards from flashcards.json
 fetch('flashcards.json')
   .then(res => res.json())
   .then(data => {
     console.log("✅ Loaded flashcards:", data.length);
-    if (data.length === 0) alert('⚠️ Flashcards loaded but empty!');
-    if (document.getElementById('loadingMsg')) document.getElementById('loadingMsg').remove();
+    if (data.length === 0) {
+      alert('⚠️ Flashcards loaded but empty!');
+    } else if (!data.every(card => card.front && card.back)) {
+      alert('⚠️ Invalid flashcard format detected!');
+      return;
+    }
+    removeLoadingMessage();
     decks.flashcards = data;
     if (currentDeck === 'flashcard') showCard();
   })
-  .catch(err => console.error('Error loading flashcards:', err));
+  .catch(err => {
+    console.error('Error loading flashcards:', err);
+    alert('❌ Failed to load flashcards. Please check flashcards.json.');
+  });
 
 // Fetch Q&A cards from qa.json
 fetch('qa.json')

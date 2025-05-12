@@ -1,1652 +1,1652 @@
 [
   {
-    "question": "What does acronym TERM1 stand for?",
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 1)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
     ],
-    "answer": "Option C",
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM2 stand for?",
+    "question": "What does the 'least privilege' principle mean in security? (Var 2)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
     ],
-    "answer": "Option C",
-    "category": "Networking"
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
   },
   {
-    "question": "What does acronym TERM3 stand for?",
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 3)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM4 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM5 stand for?",
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 4)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
     ],
-    "answer": "Option C",
+    "answer": "To determine the network and host portions of an IP address",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM6 stand for?",
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 5)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
+    "answer": "TCP",
+    "category": "Networking"
   },
   {
-    "question": "What does acronym TERM7 stand for?",
+    "question": "What does the 'least privilege' principle mean in security? (Var 6)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
     ],
-    "answer": "Option C",
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
+  },
+  {
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 7)",
+    "options": [
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
+    ],
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM8 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 8)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
-    "category": "Networking"
+    "answer": "Defense in Depth",
+    "category": "Security"
   },
   {
-    "question": "What does acronym TERM9 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 9)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
+    "answer": "Defense in Depth",
+    "category": "Security"
   },
   {
-    "question": "What does acronym TERM10 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 10)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
+    "answer": "Defense in Depth",
+    "category": "Security"
+  },
+  {
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 11)",
+    "options": [
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
+    ],
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM11 stand for?",
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 12)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
     ],
-    "answer": "Option C",
+    "answer": "To determine the network and host portions of an IP address",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM12 stand for?",
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 13)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM13 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM14 stand for?",
+    "question": "What does the 'least privilege' principle mean in security? (Var 14)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
     ],
-    "answer": "Option C",
-    "category": "Networking"
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
   },
   {
-    "question": "What does acronym TERM15 stand for?",
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 15)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM16 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM17 stand for?",
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 16)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
     ],
-    "answer": "Option C",
+    "answer": "To determine the network and host portions of an IP address",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM18 stand for?",
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 17)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
+    "answer": "To determine the network and host portions of an IP address",
+    "category": "Networking"
   },
   {
-    "question": "What does acronym TERM19 stand for?",
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 18)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
     ],
-    "answer": "Option C",
+    "answer": "To determine the network and host portions of an IP address",
+    "category": "Networking"
+  },
+  {
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 19)",
+    "options": [
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
+    ],
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM20 stand for?",
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 20)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
     ],
-    "answer": "Option C",
-    "category": "Networking"
-  },
-  {
-    "question": "What does acronym TERM21 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM22 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM23 stand for?",
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 21)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
     ],
-    "answer": "Option C",
-    "category": "Networking"
-  },
-  {
-    "question": "What does acronym TERM24 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM25 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM26 stand for?",
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 22)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
     ],
-    "answer": "Option C",
-    "category": "Networking"
-  },
-  {
-    "question": "What does acronym TERM27 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM28 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM29 stand for?",
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 23)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
     ],
-    "answer": "Option C",
+    "answer": "To determine the network and host portions of an IP address",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM30 stand for?",
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 24)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
+    "answer": "To determine the network and host portions of an IP address",
+    "category": "Networking"
   },
   {
-    "question": "What does acronym TERM31 stand for?",
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 25)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
     ],
-    "answer": "Option C",
+    "answer": "To determine the network and host portions of an IP address",
+    "category": "Networking"
+  },
+  {
+    "question": "What does the 'least privilege' principle mean in security? (Var 26)",
+    "options": [
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
+    ],
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
+  },
+  {
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 27)",
+    "options": [
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
+    ],
+    "answer": "To determine the network and host portions of an IP address",
+    "category": "Networking"
+  },
+  {
+    "question": "What does the 'least privilege' principle mean in security? (Var 28)",
+    "options": [
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
+    ],
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
+  },
+  {
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 29)",
+    "options": [
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
+    ],
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM32 stand for?",
+    "question": "What does the 'least privilege' principle mean in security? (Var 30)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
     ],
-    "answer": "Option C",
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
+  },
+  {
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 31)",
+    "options": [
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
+    ],
+    "answer": "To determine the network and host portions of an IP address",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM33 stand for?",
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 32)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
+    "answer": "TCP",
+    "category": "Networking"
   },
   {
-    "question": "What does acronym TERM34 stand for?",
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 33)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
     ],
-    "answer": "Option C",
+    "answer": "TCP",
+    "category": "Networking"
+  },
+  {
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 34)",
+    "options": [
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
+    ],
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM35 stand for?",
+    "question": "What does the 'least privilege' principle mean in security? (Var 35)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
     ],
-    "answer": "Option C",
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
+  },
+  {
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 36)",
+    "options": [
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
+    ],
+    "answer": "TCP",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM36 stand for?",
+    "question": "What does the 'least privilege' principle mean in security? (Var 37)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
   },
   {
-    "question": "What does acronym TERM37 stand for?",
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 38)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
     ],
-    "answer": "Option C",
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM38 stand for?",
+    "question": "What does the 'least privilege' principle mean in security? (Var 39)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
     ],
-    "answer": "Option C",
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
+  },
+  {
+    "question": "What does the 'least privilege' principle mean in security? (Var 40)",
+    "options": [
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
+    ],
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
+  },
+  {
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 41)",
+    "options": [
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
+    ],
+    "answer": "TCP",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM39 stand for?",
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 42)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM40 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM41 stand for?",
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 43)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
     ],
-    "answer": "Option C",
-    "category": "Networking"
-  },
-  {
-    "question": "What does acronym TERM42 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM43 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM44 stand for?",
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 44)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
     ],
-    "answer": "Option C",
-    "category": "Networking"
-  },
-  {
-    "question": "What does acronym TERM45 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM46 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM47 stand for?",
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 45)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
     ],
-    "answer": "Option C",
+    "answer": "To determine the network and host portions of an IP address",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM48 stand for?",
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 46)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM49 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM50 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 47)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
-    "category": "Networking"
+    "answer": "Defense in Depth",
+    "category": "Security"
   },
   {
-    "question": "What does acronym TERM51 stand for?",
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 48)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM52 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM53 stand for?",
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 49)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
     ],
-    "answer": "Option C",
-    "category": "Networking"
-  },
-  {
-    "question": "What does acronym TERM54 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM55 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM56 stand for?",
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 50)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
     ],
-    "answer": "Option C",
+    "answer": "TCP",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM57 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 51)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
+    "answer": "Defense in Depth",
+    "category": "Security"
   },
   {
-    "question": "What does acronym TERM58 stand for?",
+    "question": "What does the 'least privilege' principle mean in security? (Var 52)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
     ],
-    "answer": "Option C",
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
+  },
+  {
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 53)",
+    "options": [
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
+    ],
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM59 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 54)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
+    "answer": "Defense in Depth",
+    "category": "Security"
+  },
+  {
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 55)",
+    "options": [
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
+    ],
+    "answer": "TCP",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM60 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 56)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
+    "answer": "Defense in Depth",
+    "category": "Security"
   },
   {
-    "question": "What does acronym TERM61 stand for?",
+    "question": "What does the 'least privilege' principle mean in security? (Var 57)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
     ],
-    "answer": "Option C",
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
+  },
+  {
+    "question": "What does the 'least privilege' principle mean in security? (Var 58)",
+    "options": [
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
+    ],
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
+  },
+  {
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 59)",
+    "options": [
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
+    ],
+    "answer": "TCP",
+    "category": "Networking"
+  },
+  {
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 60)",
+    "options": [
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
+    ],
+    "answer": "Defense in Depth",
+    "category": "Security"
+  },
+  {
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 61)",
+    "options": [
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
+    ],
+    "answer": "To determine the network and host portions of an IP address",
+    "category": "Networking"
+  },
+  {
+    "question": "What does the 'least privilege' principle mean in security? (Var 62)",
+    "options": [
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
+    ],
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
+  },
+  {
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 63)",
+    "options": [
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
+    ],
+    "answer": "To determine the network and host portions of an IP address",
+    "category": "Networking"
+  },
+  {
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 64)",
+    "options": [
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
+    ],
+    "answer": "To determine the network and host portions of an IP address",
+    "category": "Networking"
+  },
+  {
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 65)",
+    "options": [
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
+    ],
+    "answer": "To determine the network and host portions of an IP address",
+    "category": "Networking"
+  },
+  {
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 66)",
+    "options": [
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
+    ],
+    "answer": "TCP",
+    "category": "Networking"
+  },
+  {
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 67)",
+    "options": [
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
+    ],
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM62 stand for?",
+    "question": "What does the 'least privilege' principle mean in security? (Var 68)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
     ],
-    "answer": "Option C",
-    "category": "Networking"
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
   },
   {
-    "question": "What does acronym TERM63 stand for?",
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 69)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM64 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM65 stand for?",
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 70)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
     ],
-    "answer": "Option C",
-    "category": "Networking"
-  },
-  {
-    "question": "What does acronym TERM66 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM67 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM68 stand for?",
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 71)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
     ],
-    "answer": "Option C",
-    "category": "Networking"
-  },
-  {
-    "question": "What does acronym TERM69 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM70 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM71 stand for?",
+    "question": "What does the 'least privilege' principle mean in security? (Var 72)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
     ],
-    "answer": "Option C",
-    "category": "Networking"
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
   },
   {
-    "question": "What does acronym TERM72 stand for?",
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 73)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM73 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM74 stand for?",
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 74)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
     ],
-    "answer": "Option C",
+    "answer": "TCP",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM75 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 75)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
+    "answer": "Defense in Depth",
+    "category": "Security"
   },
   {
-    "question": "What does acronym TERM76 stand for?",
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 76)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
     ],
-    "answer": "Option C",
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM77 stand for?",
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 77)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
     ],
-    "answer": "Option C",
-    "category": "Networking"
-  },
-  {
-    "question": "What does acronym TERM78 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM79 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM80 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 78)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
+    "answer": "Defense in Depth",
+    "category": "Security"
+  },
+  {
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 79)",
+    "options": [
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
+    ],
+    "answer": "Defense in Depth",
+    "category": "Security"
+  },
+  {
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 80)",
+    "options": [
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
+    ],
+    "answer": "TCP",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM81 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 81)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
+    "answer": "Defense in Depth",
+    "category": "Security"
   },
   {
-    "question": "What does acronym TERM82 stand for?",
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 82)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
     ],
-    "answer": "Option C",
+    "answer": "To determine the network and host portions of an IP address",
+    "category": "Networking"
+  },
+  {
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 83)",
+    "options": [
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
+    ],
+    "answer": "To determine the network and host portions of an IP address",
+    "category": "Networking"
+  },
+  {
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 84)",
+    "options": [
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
+    ],
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM83 stand for?",
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 85)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
     ],
-    "answer": "Option C",
+    "answer": "TCP",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM84 stand for?",
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 86)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
+    "answer": "To determine the network and host portions of an IP address",
+    "category": "Networking"
   },
   {
-    "question": "What does acronym TERM85 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 87)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
+    "answer": "Defense in Depth",
+    "category": "Security"
+  },
+  {
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 88)",
+    "options": [
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
+    ],
+    "answer": "TCP",
+    "category": "Networking"
+  },
+  {
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 89)",
+    "options": [
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
+    ],
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM86 stand for?",
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 90)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
     ],
-    "answer": "Option C",
-    "category": "Networking"
-  },
-  {
-    "question": "What does acronym TERM87 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM88 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM89 stand for?",
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 91)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
     ],
-    "answer": "Option C",
+    "answer": "TCP",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM90 stand for?",
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 92)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
+    "answer": "TCP",
+    "category": "Networking"
   },
   {
-    "question": "What does acronym TERM91 stand for?",
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 93)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
     ],
-    "answer": "Option C",
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM92 stand for?",
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 94)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
     ],
-    "answer": "Option C",
-    "category": "Networking"
-  },
-  {
-    "question": "What does acronym TERM93 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM94 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM95 stand for?",
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 95)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
     ],
-    "answer": "Option C",
-    "category": "Networking"
-  },
-  {
-    "question": "What does acronym TERM96 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM97 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM98 stand for?",
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 96)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
     ],
-    "answer": "Option C",
+    "answer": "TCP",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM99 stand for?",
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 97)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM100 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM101 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 98)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
+    "answer": "Defense in Depth",
+    "category": "Security"
+  },
+  {
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 99)",
+    "options": [
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
+    ],
+    "answer": "To determine the network and host portions of an IP address",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM102 stand for?",
+    "question": "What does the 'least privilege' principle mean in security? (Var 100)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
   },
   {
-    "question": "What does acronym TERM103 stand for?",
+    "question": "What does the 'least privilege' principle mean in security? (Var 101)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
     ],
-    "answer": "Option C",
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
+  },
+  {
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 102)",
+    "options": [
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
+    ],
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM104 stand for?",
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 103)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
     ],
-    "answer": "Option C",
-    "category": "Networking"
-  },
-  {
-    "question": "What does acronym TERM105 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM106 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM107 stand for?",
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 104)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
     ],
-    "answer": "Option C",
+    "answer": "TCP",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM108 stand for?",
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 105)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM109 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM110 stand for?",
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 106)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
     ],
-    "answer": "Option C",
-    "category": "Networking"
-  },
-  {
-    "question": "What does acronym TERM111 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM112 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM113 stand for?",
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 107)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
     ],
-    "answer": "Option C",
-    "category": "Networking"
-  },
-  {
-    "question": "What does acronym TERM114 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM115 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM116 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 108)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
-    "category": "Networking"
+    "answer": "Defense in Depth",
+    "category": "Security"
   },
   {
-    "question": "What does acronym TERM117 stand for?",
+    "question": "What does the 'least privilege' principle mean in security? (Var 109)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
   },
   {
-    "question": "What does acronym TERM118 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 110)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
+    "answer": "Defense in Depth",
+    "category": "Security"
+  },
+  {
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 111)",
+    "options": [
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
+    ],
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM119 stand for?",
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 112)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
     ],
-    "answer": "Option C",
+    "answer": "To determine the network and host portions of an IP address",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM120 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 113)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
+    "answer": "Defense in Depth",
+    "category": "Security"
   },
   {
-    "question": "What does acronym TERM121 stand for?",
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 114)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
     ],
-    "answer": "Option C",
+    "answer": "TCP",
+    "category": "Networking"
+  },
+  {
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 115)",
+    "options": [
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
+    ],
+    "answer": "To determine the network and host portions of an IP address",
+    "category": "Networking"
+  },
+  {
+    "question": "What does the 'least privilege' principle mean in security? (Var 116)",
+    "options": [
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
+    ],
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
+  },
+  {
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 117)",
+    "options": [
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
+    ],
+    "answer": "To determine the network and host portions of an IP address",
+    "category": "Networking"
+  },
+  {
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 118)",
+    "options": [
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
+    ],
+    "answer": "To determine the network and host portions of an IP address",
+    "category": "Networking"
+  },
+  {
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 119)",
+    "options": [
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
+    ],
+    "answer": "TCP",
+    "category": "Networking"
+  },
+  {
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 120)",
+    "options": [
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
+    ],
+    "answer": "To determine the network and host portions of an IP address",
+    "category": "Networking"
+  },
+  {
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 121)",
+    "options": [
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
+    ],
+    "answer": "Defense in Depth",
+    "category": "Security"
+  },
+  {
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 122)",
+    "options": [
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
+    ],
+    "answer": "Defense in Depth",
+    "category": "Security"
+  },
+  {
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 123)",
+    "options": [
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
+    ],
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM122 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 124)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
+    "answer": "Defense in Depth",
+    "category": "Security"
+  },
+  {
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 125)",
+    "options": [
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
+    ],
+    "answer": "TCP",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM123 stand for?",
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 126)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
+    "answer": "To determine the network and host portions of an IP address",
+    "category": "Networking"
   },
   {
-    "question": "What does acronym TERM124 stand for?",
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 127)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
     ],
-    "answer": "Option C",
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM125 stand for?",
+    "question": "What does the 'least privilege' principle mean in security? (Var 128)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
     ],
-    "answer": "Option C",
-    "category": "Networking"
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
   },
   {
-    "question": "What does acronym TERM126 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 129)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
+    "answer": "Defense in Depth",
+    "category": "Security"
   },
   {
-    "question": "What does acronym TERM127 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 130)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
+    "answer": "Defense in Depth",
+    "category": "Security"
+  },
+  {
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 131)",
+    "options": [
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
+    ],
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM128 stand for?",
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 132)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
     ],
-    "answer": "Option C",
-    "category": "Networking"
-  },
-  {
-    "question": "What does acronym TERM129 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM130 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM131 stand for?",
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 133)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
     ],
-    "answer": "Option C",
+    "answer": "TCP",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM132 stand for?",
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 134)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM133 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM134 stand for?",
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 135)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
     ],
-    "answer": "Option C",
+    "answer": "TCP",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM135 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 136)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
+    "answer": "Defense in Depth",
+    "category": "Security"
   },
   {
-    "question": "What does acronym TERM136 stand for?",
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 137)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
     ],
-    "answer": "Option C",
+    "answer": "TCP",
+    "category": "Networking"
+  },
+  {
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 138)",
+    "options": [
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
+    ],
+    "answer": "Defense in Depth",
+    "category": "Security"
+  },
+  {
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 139)",
+    "options": [
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
+    ],
+    "answer": "To determine the network and host portions of an IP address",
+    "category": "Networking"
+  },
+  {
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 140)",
+    "options": [
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
+    ],
+    "answer": "To determine the network and host portions of an IP address",
+    "category": "Networking"
+  },
+  {
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 141)",
+    "options": [
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
+    ],
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM137 stand for?",
+    "question": "Which Zscaler service provides visibility into user experience and performance? (Var 142)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "ZIA",
+      "ZPA",
+      "ZDX",
+      "ZTNA"
     ],
-    "answer": "Option C",
-    "category": "Networking"
-  },
-  {
-    "question": "What does acronym TERM138 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM139 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "ZDX",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM140 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 143)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
-    "category": "Networking"
+    "answer": "Defense in Depth",
+    "category": "Security"
   },
   {
-    "question": "What does acronym TERM141 stand for?",
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 144)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM142 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM143 stand for?",
+    "question": "Which protocol ensures packet delivery and provides sequencing? (Var 145)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "UDP",
+      "TCP",
+      "ICMP",
+      "RTP"
     ],
-    "answer": "Option C",
+    "answer": "TCP",
     "category": "Networking"
   },
   {
-    "question": "What does acronym TERM144 stand for?",
+    "question": "What is the primary purpose of a subnet mask in networking? (Var 146)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "To identify the gateway",
+      "To specify the DNS server",
+      "To determine the network and host portions of an IP address",
+      "To encrypt data packets"
     ],
-    "answer": "Option C",
-    "category": "Soft Skills"
+    "answer": "To determine the network and host portions of an IP address",
+    "category": "Networking"
   },
   {
-    "question": "What does acronym TERM145 stand for?",
+    "question": "Which security principle does 'multi-factor authentication' support? (Var 147)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Defense in Depth"
     ],
-    "answer": "Option C",
+    "answer": "Defense in Depth",
+    "category": "Security"
+  },
+  {
+    "question": "What does the 'least privilege' principle mean in security? (Var 148)",
+    "options": [
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
+    ],
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
+  },
+  {
+    "question": "What component in Zscaler ZIA is responsible for policy enforcement and traffic forwarding? (Var 149)",
+    "options": [
+      "App Connector",
+      "Zscaler Client Connector",
+      "Zscaler Enforcement Node (ZEN)",
+      "Bandwidth Control"
+    ],
+    "answer": "Zscaler Enforcement Node (ZEN)",
     "category": "Zscaler"
   },
   {
-    "question": "What does acronym TERM146 stand for?",
+    "question": "What does the 'least privilege' principle mean in security? (Var 150)",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Give all users admin access",
+      "Block all internet access",
+      "Users only get access necessary to perform their tasks",
+      "Use one password for all users"
     ],
-    "answer": "Option C",
-    "category": "Networking"
-  },
-  {
-    "question": "What does acronym TERM147 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Soft Skills"
-  },
-  {
-    "question": "What does acronym TERM148 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Zscaler"
-  },
-  {
-    "question": "What does acronym TERM149 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Networking"
-  },
-  {
-    "question": "What does acronym TERM150 stand for?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option C",
-    "category": "Soft Skills"
+    "answer": "Users only get access necessary to perform their tasks",
+    "category": "Security"
   }
 ]

@@ -1,14 +1,158 @@
 [
   {
-    "front": "Describe a time you managed a difficult customer relationship.",
-    "back": "Focus on listening, clarifying expectations, and establishing regular proactive check-ins."
+    "front": "Tell me about a time you handled conflict at work.",
+    "back": "Use the STAR method to explain how you managed conflict effectively."
   },
   {
-    "front": "How do you handle conflicting priorities between sales and engineering?",
-    "back": "Facilitate joint planning, set clear expectations, and align customer impact as a shared priority."
+    "front": "Tell me about a time you handled a missed deadline at work.",
+    "back": "Use the STAR method to explain how you managed a missed deadline effectively."
   },
   {
-    "front": "What would you do if a customer is upset over a service outage?",
-    "back": "Acknowledge impact, provide clear status updates, and offer action plans or postmortem follow-up."
+    "front": "Tell me about a time you handled a difficult stakeholder at work.",
+    "back": "Use the STAR method to explain how you managed a difficult stakeholder effectively."
+  },
+  {
+    "front": "Tell me about a time you handled customer churn risk at work.",
+    "back": "Use the STAR method to explain how you managed customer churn risk effectively."
+  },
+  {
+    "front": "Tell me about a time you handled competing priorities at work.",
+    "back": "Use the STAR method to explain how you managed competing priorities effectively."
+  },
+  {
+    "front": "Tell me about a time you handled a production outage at work.",
+    "back": "Use the STAR method to explain how you managed a production outage effectively."
+  },
+  {
+    "front": "Tell me about a time you handled training delivery at work.",
+    "back": "Use the STAR method to explain how you managed training delivery effectively."
+  },
+  {
+    "front": "Tell me about a time you handled cross-functional misalignment at work.",
+    "back": "Use the STAR method to explain how you managed cross-functional misalignment effectively."
+  },
+  {
+    "front": "Tell me about a time you handled a renewal negotiation at work.",
+    "back": "Use the STAR method to explain how you managed a renewal negotiation effectively."
+  },
+  {
+    "front": "Tell me about a time you handled an unexpected escalation at work.",
+    "back": "Use the STAR method to explain how you managed an unexpected escalation effectively."
+  },
+  {
+    "front": "Tell me about a time you handled change management at work.",
+    "back": "Use the STAR method to explain how you managed change management effectively."
+  },
+  {
+    "front": "Tell me about a time you handled feedback implementation at work.",
+    "back": "Use the STAR method to explain how you managed feedback implementation effectively."
+  },
+  {
+    "front": "Tell me about a time you handled remote team collaboration at work.",
+    "back": "Use the STAR method to explain how you managed remote team collaboration effectively."
+  },
+  {
+    "front": "Tell me about a time you handled a technical challenge at work.",
+    "back": "Use the STAR method to explain how you managed a technical challenge effectively."
+  },
+  {
+    "front": "Tell me about a time you handled data-driven insight at work.",
+    "back": "Use the STAR method to explain how you managed data-driven insight effectively."
+  },
+  {
+    "front": "Tell me about a time you handled product adoption at work.",
+    "back": "Use the STAR method to explain how you managed product adoption effectively."
+  },
+  {
+    "front": "Tell me about a time you handled customer roadmap planning at work.",
+    "back": "Use the STAR method to explain how you managed customer roadmap planning effectively."
+  },
+  {
+    "front": "Tell me about a time you handled a budget constraint at work.",
+    "back": "Use the STAR method to explain how you managed a budget constraint effectively."
+  },
+  {
+    "front": "Tell me about a time you handled team mentorship at work.",
+    "back": "Use the STAR method to explain how you managed team mentorship effectively."
+  },
+  {
+    "front": "Tell me about a time you handled compliance issues at work.",
+    "back": "Use the STAR method to explain how you managed compliance issues effectively."
+  },
+  {
+    "front": "Tell me about a time you handled process optimization at work.",
+    "back": "Use the STAR method to explain how you managed process optimization effectively."
+  },
+  {
+    "front": "Tell me about a time you handled collaboration with sales at work.",
+    "back": "Use the STAR method to explain how you managed collaboration with sales effectively."
+  },
+  {
+    "front": "Tell me about a time you handled time zone conflicts at work.",
+    "back": "Use the STAR method to explain how you managed time zone conflicts effectively."
+  },
+  {
+    "front": "Tell me about a time you handled project delays at work.",
+    "back": "Use the STAR method to explain how you managed project delays effectively."
+  },
+  {
+    "front": "Tell me about a time you handled scope creep at work.",
+    "back": "Use the STAR method to explain how you managed scope creep effectively."
+  },
+  {
+    "front": "Tell me about a time you handled unexpected downtime at work.",
+    "back": "Use the STAR method to explain how you managed unexpected downtime effectively."
+  },
+  {
+    "front": "Tell me about a time you handled low NPS scores at work.",
+    "back": "Use the STAR method to explain how you managed low NPS scores effectively."
+  },
+  {
+    "front": "Tell me about a time you handled feature gaps at work.",
+    "back": "Use the STAR method to explain how you managed feature gaps effectively."
+  },
+  {
+    "front": "Tell me about a time you handled prioritization challenges at work.",
+    "back": "Use the STAR method to explain how you managed prioritization challenges effectively."
+  },
+  {
+    "front": "Tell me about a time you handled unexpected resignations at work.",
+    "back": "Use the STAR method to explain how you managed unexpected resignations effectively."
+  },
+  {
+    "front": "Tell me about a time you handled lack of engagement at work.",
+    "back": "Use the STAR method to explain how you managed lack of engagement effectively."
+  },
+  {
+    "front": "Tell me about a time you handled miscommunication at work.",
+    "back": "Use the STAR method to explain how you managed miscommunication effectively."
+  },
+  {
+    "front": "Tell me about a time you handled customer dissatisfaction at work.",
+    "back": "Use the STAR method to explain how you managed customer dissatisfaction effectively."
+  },
+  {
+    "front": "Tell me about a time you handled rapid onboarding at work.",
+    "back": "Use the STAR method to explain how you managed rapid onboarding effectively."
+  },
+  {
+    "front": "Tell me about a time you handled end-of-quarter pressure at work.",
+    "back": "Use the STAR method to explain how you managed end-of-quarter pressure effectively."
+  },
+  {
+    "front": "Tell me about a time you handled security incident at work.",
+    "back": "Use the STAR method to explain how you managed security incident effectively."
+  },
+  {
+    "front": "Tell me about a time you handled documentation updates at work.",
+    "back": "Use the STAR method to explain how you managed documentation updates effectively."
+  },
+  {
+    "front": "Tell me about a time you handled a new initiative at work.",
+    "back": "Use the STAR method to explain how you managed a new initiative effectively."
+  },
+  {
+    "front": "Tell me about a time you handled customer resistance to change at work.",
+    "back": "Use the STAR method to explain how you managed customer resistance to change effectively."
   }
 ]

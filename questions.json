@@ -1,46 +1,1652 @@
 [
   {
-    "question": "What is the OSI model primarily used for?",
+    "question": "What does acronym TERM1 stand for?",
     "options": [
-      "User authentication",
-      "Routing traffic",
-      "Standardizing network communication",
-      "Encrypting packets"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": "Standardizing network communication",
-    "category": "Networking"
-  },
-  {
-    "question": "Which Zscaler product is designed to secure internet-bound traffic?",
-    "options": [
-      "ZIA",
-      "ZPA",
-      "ZTNA",
-      "VPN"
-    ],
-    "answer": "ZIA",
+    "answer": "Option C",
     "category": "Zscaler"
   },
   {
-    "question": "What soft skill is most important when working with executive stakeholders?",
+    "question": "What does acronym TERM2 stand for?",
     "options": [
-      "Attention to detail",
-      "Empathy",
-      "Delegation",
-      "Hardware knowledge"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": "Empathy",
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM3 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
     "category": "Soft Skills"
   },
   {
-    "question": "How should you approach a critical issue with a hospital client?",
+    "question": "What does acronym TERM4 stand for?",
     "options": [
-      "Escalate immediately",
-      "Reboot systems",
-      "Use structured troubleshooting and proactive communication",
-      "Ignore until replicated"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": "Use structured troubleshooting and proactive communication",
-    "category": "Situational"
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM5 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM6 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM7 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM8 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM9 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM10 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM11 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM12 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM13 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM14 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM15 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM16 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM17 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM18 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM19 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM20 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM21 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM22 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM23 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM24 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM25 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM26 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM27 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM28 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM29 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM30 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM31 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM32 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM33 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM34 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM35 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM36 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM37 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM38 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM39 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM40 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM41 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM42 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM43 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM44 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM45 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM46 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM47 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM48 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM49 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM50 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM51 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM52 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM53 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM54 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM55 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM56 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM57 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM58 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM59 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM60 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM61 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM62 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM63 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM64 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM65 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM66 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM67 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM68 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM69 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM70 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM71 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM72 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM73 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM74 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM75 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM76 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM77 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM78 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM79 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM80 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM81 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM82 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM83 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM84 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM85 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM86 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM87 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM88 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM89 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM90 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM91 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM92 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM93 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM94 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM95 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM96 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM97 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM98 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM99 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM100 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM101 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM102 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM103 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM104 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM105 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM106 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM107 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM108 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM109 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM110 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM111 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM112 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM113 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM114 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM115 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM116 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM117 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM118 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM119 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM120 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM121 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM122 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM123 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM124 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM125 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM126 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM127 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM128 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM129 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM130 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM131 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM132 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM133 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM134 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM135 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM136 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM137 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM138 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM139 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM140 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM141 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM142 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM143 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM144 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM145 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM146 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM147 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
+  },
+  {
+    "question": "What does acronym TERM148 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Zscaler"
+  },
+  {
+    "question": "What does acronym TERM149 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Networking"
+  },
+  {
+    "question": "What does acronym TERM150 stand for?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option C",
+    "category": "Soft Skills"
   }
 ]
